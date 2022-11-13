@@ -1,4 +1,4 @@
-# [CV](https://nyar1othotep.github.io/rsschool-cv/cv "cv.md")
+# [CV](https://github.com/Nyar1othotep/CV/blob/main/cv.md "cv.md")
 1. Я Минин Максим Максимович
 2. Контакты:
     + freelancerart@yandex.ru
